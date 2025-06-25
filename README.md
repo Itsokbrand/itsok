@@ -1,6 +1,6 @@
 🛒 Welcome to Itsok brand
 -----------
-brand link []
+brand link [https://itsokbrand.github.io/itsok/]
 shirts for now!!
 📨contact us 
 instagram :@itsok.brand
